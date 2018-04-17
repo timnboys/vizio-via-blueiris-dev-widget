@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <metadata>
-    <name>Plex</name>
-    <version>0.0.22</version>
-    <identifier>com.atessmer.widgets.tv.plexapp</identifier>
-    <author name="Alex Tessmer" organization="" href="http://github.com/atessmer" />
-    <copyright>2013 Alex Tessmer</copyright>
-    <description>Plex App</description>
+    <name>BlueIris</name>
+    <version>0.0.0</version>
+    <identifier>com.keyedinsoftware.widgets.tv.blueirisapp</identifier>
+    <author name="KeyedInSoftware" organization="" href="http://keyedinsoftware.org" />
+    <copyright>2018 KeyedInSoftware</copyright>
+    <description>BlueIris App</description>
     <platform minVersion="5.0" />
     <security>
         <filesystem>full</filesystem>
