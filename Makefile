@@ -13,8 +13,8 @@
 # For more details, see:
 # http://developer.yahoo.com/connectedtv/installguide/CTV_IG_Testing_on_a_Consumer_Device.html
 ##########################################################################  
-FILES := $(shell find Plex.widget -type f -not -path '*/.*')
-CFG = Plex.widget/Contents/widget.xml
+FILES := $(shell find BlueIris.widget -type f -not -path '*/.*')
+CFG = BlueIris.widget/Contents/widget.xml
 
 APPNAME := $(shell xpath -q -e 'metadata/name/text()' $(CFG))
 APPVERSION := $(shell xpath -q -e 'metadata/version/text()' $(CFG))
